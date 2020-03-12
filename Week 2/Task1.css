@@ -1,20 +1,26 @@
 .header{
 
     background-color: green;
+    height: 200px;
+    text-align: center;
+    line-height: 200px;
 }
 
-.header h1 {
-color: white;
-
-}
-
-.h4{
-
-    background-color: grey;
-}
-
-.header h4 {
-color: white;
+.body {
+padding: 30px;
 
 }
 
+
+body h3 {
+    background-color: green;
+    height: 50px;
+    text-align: center;
+    line-height: 50px;
+} 
+
+.div {
+    border: ;
+
+
+}
