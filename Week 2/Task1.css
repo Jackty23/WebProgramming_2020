@@ -10,14 +10,33 @@
 padding: 30px;
 
 }
+body h1 {
+    color: white;
+    background-color: yellowgreen;
 
+}
+
+body h2 {
+   font-weight: bold;
+
+}
 
 body h3 {
     background-color: green;
+    color: white;
     height: 50px;
     text-align: center;
     line-height: 50px;
+    width: 250px;
+    
 } 
+
+body h4{
+    background-color: lightslategray;
+    padding-top: 10px;
+    padding-left: 20px;
+
+}
 
 .div {
     border: ;
